@@ -1,0 +1,27 @@
+main.css
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+h2 {
+  font-family: Courier;
+  color: seagreen;
+  font-weight: bold;
+  font-size: 12px;
+}
+a {
+  color: skyblue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
